@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd", "Beecrowd.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1021_Banknotes_and_Coins", "..\1021_Banknotes_and_Coins\1021_Banknotes_and_Coins.csproj", "{6FBE3089-F02D-4E57-9C31-466BC47E58B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selection_Test1_1035", "Selection_Test1_1035\Selection_Test1_1035.csproj", "{3AD95B1D-9D14-4FD4-9303-FE80B2175EA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6FBE3089-F02D-4E57-9C31-466BC47E58B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FBE3089-F02D-4E57-9C31-466BC47E58B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FBE3089-F02D-4E57-9C31-466BC47E58B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD95B1D-9D14-4FD4-9303-FE80B2175EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD95B1D-9D14-4FD4-9303-FE80B2175EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD95B1D-9D14-4FD4-9303-FE80B2175EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD95B1D-9D14-4FD4-9303-FE80B2175EA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
