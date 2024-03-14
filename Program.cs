@@ -17,7 +17,7 @@ namespace Beecrowd
             aux =(input%365);
 
 
-            Console.WriteLine("{0} mes(es)", aux/365);
+            Console.WriteLine("{0} mes(es)", aux/30);
             aux = (aux%30);
 
             Console.WriteLine("{0} dia(s)", aux / 1);
