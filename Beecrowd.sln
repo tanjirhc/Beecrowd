@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beecrowd", "Beecrowd.csproj", "{EEA747B0-5DC2-4FB3-B153-677053BC3899}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1021_Banknotes_and_Coins", "..\1021_Banknotes_and_Coins\1021_Banknotes_and_Coins.csproj", "{6FBE3089-F02D-4E57-9C31-466BC47E58B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EEA747B0-5DC2-4FB3-B153-677053BC3899}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEA747B0-5DC2-4FB3-B153-677053BC3899}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEA747B0-5DC2-4FB3-B153-677053BC3899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FBE3089-F02D-4E57-9C31-466BC47E58B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBE3089-F02D-4E57-9C31-466BC47E58B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBE3089-F02D-4E57-9C31-466BC47E58B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBE3089-F02D-4E57-9C31-466BC47E58B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
