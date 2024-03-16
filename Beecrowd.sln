@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1021_Banknotes_and_Coins", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selection_Test1_1035", "Selection_Test1_1035\Selection_Test1_1035.csproj", "{3AD95B1D-9D14-4FD4-9303-FE80B2175EA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1036_Bhaskara_Formula", "1036_Bhaskara_Formula\1036_Bhaskara_Formula.csproj", "{3FAE773C-DBFE-47BC-9C02-8787A5636DAA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3AD95B1D-9D14-4FD4-9303-FE80B2175EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AD95B1D-9D14-4FD4-9303-FE80B2175EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AD95B1D-9D14-4FD4-9303-FE80B2175EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAE773C-DBFE-47BC-9C02-8787A5636DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAE773C-DBFE-47BC-9C02-8787A5636DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAE773C-DBFE-47BC-9C02-8787A5636DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAE773C-DBFE-47BC-9C02-8787A5636DAA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

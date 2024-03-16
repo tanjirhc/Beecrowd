@@ -42,8 +42,9 @@ namespace Selection_Test1_1035
             {
                 //Values not accepted
                 Console.WriteLine("Valores nao aceitos");
+                Console.ReadKey();
             }
-            Console.ReadKey();
+            
         }
     }
 }
